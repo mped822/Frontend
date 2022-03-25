@@ -33,7 +33,7 @@ const posts = [
     upi: "shfdj364",
     time: "12:12",
     postID: "randomID2",
-    text: "High performance computing seems pretty interesting, but also difficult to learn. Also how do you even pronounce parallelisation",
+    text: "High performance computing seems very interesting, but also difficult to learn. Also how do you even pronounce parallelisation",
     upvotes: 24,
     downvotes: 23,
     images: [
